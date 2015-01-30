@@ -1,6 +1,7 @@
 ////
 //
 // General code from http://www.pushingbox.com for Arduino + SeeedStudio Shield
+// Credit to Chris Weber (thanks ;-) )
 //
 ////
 
